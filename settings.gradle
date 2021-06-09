@@ -1,0 +1,2 @@
+include ':entry'
+rootProject.name = "你好，鸿蒙"
